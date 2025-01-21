@@ -1,5 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
-![MERN Stack App](/frontend/public/RealtimeChat.png)
+![MERN Stack App](/frontend/public/image.png)
 
 ##
 Highlights:
